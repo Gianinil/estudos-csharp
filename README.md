@@ -10,25 +10,43 @@ Requer o [.NET SDK 10](https://dotnet.microsoft.com/download) ou superior.
 ```bash
 git clone https://github.com/Gianinil/estudos-csharp.git
 cd estudos-csharp
-dotnet run --project 01-fundamentos/Fundamentos
+dotnet run --project 01-fundamentos/PrimeiroPrograma
 ```
 
 Para abrir tudo de uma vez no Visual Studio ou no Rider, use `EstudosCSharp.slnx`.
+Para compilar todos os projetos de uma vez: `dotnet build EstudosCSharp.slnx`.
 
-## Estrutura
+## Conteúdo
 
-| Pasta | Conteúdo |
+### 01-fundamentos
+
+| Projeto | Assunto |
 | --- | --- |
-| `01-fundamentos` | Tipos, variáveis, controle de fluxo, métodos |
+| `PrimeiroPrograma` | Estrutura mínima de um programa: `namespace`, classe e `Main` |
+| `TiposPrimitivos` | `bool`, `char`, `byte`, `int`, `long` e o estouro do `byte` em 255 |
+| `SaidaDeDados` | `Write` vs `WriteLine`, `ToString("F2")`, `CultureInfo` e interpolação |
 
-Novos temas entram como pastas numeradas conforme eu avanço: coleções, POO,
-LINQ, async/await, tratamento de erros, acesso a dados e testes.
+### 02-poo
+
+| Projeto | Assunto |
+| --- | --- |
+| `PrimeiraClasse` | Primeira classe com campos públicos e instanciação com `new` |
+
+### 03-exercicios
+
+| Projeto | Assunto |
+| --- | --- |
+| `ProdutosFormatacao` | Exercício juntando tipos, casas decimais e separador decimal |
+
+Novos temas entram como pastas numeradas conforme eu avanço: coleções,
+construtores e encapsulamento, herança, LINQ, tratamento de erros e testes.
 
 ## Convenções
 
 - Um projeto por assunto, sempre executável com `dotnet run`.
-- Comentários explicam o *porquê* do código, não o óbvio.
-- Cada projeto tem um `README.md` curto quando o tema exige contexto.
+- Pastas numeradas por tema, na ordem em que estudo.
+- O código fica como foi escrito no estudo, inclusive os avisos do compilador
+  que ainda não aprendi a tratar.
 
 ## Licença
 

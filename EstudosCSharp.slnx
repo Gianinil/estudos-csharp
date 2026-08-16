@@ -1,5 +1,13 @@
 <Solution>
   <Folder Name="/01-fundamentos/">
-    <Project Path="01-fundamentos/Fundamentos/Fundamentos.csproj" />
+    <Project Path="01-fundamentos/PrimeiroPrograma/PrimeiroPrograma.csproj" />
+    <Project Path="01-fundamentos/SaidaDeDados/SaidaDeDados.csproj" />
+    <Project Path="01-fundamentos/TiposPrimitivos/TiposPrimitivos.csproj" />
+  </Folder>
+  <Folder Name="/02-poo/">
+    <Project Path="02-poo/PrimeiraClasse/PrimeiraClasse.csproj" />
+  </Folder>
+  <Folder Name="/03-exercicios/">
+    <Project Path="03-exercicios/ProdutosFormatacao/ProdutosFormatacao.csproj" />
   </Folder>
 </Solution>
