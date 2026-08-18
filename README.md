@@ -25,12 +25,8 @@ Para compilar todos os projetos de uma vez: `dotnet build EstudosCSharp.slnx`.
 | `PrimeiroPrograma` | Estrutura mínima de um programa: `namespace`, classe e `Main` |
 | `TiposPrimitivos` | `bool`, `char`, `byte`, `int`, `long` e o estouro do `byte` em 255 |
 | `SaidaDeDados` | `Write` vs `WriteLine`, `ToString("F2")`, `CultureInfo` e interpolação |
-
-### 02-poo
-
-| Projeto | Assunto |
-| --- | --- |
 | `PrimeiraClasse` | Primeira classe com campos públicos e instanciação com `new` |
+| `Conversão implícita` | Conversão implícita e casting |
 
 ### 03-exercicios
 
