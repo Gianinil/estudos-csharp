@@ -26,7 +26,9 @@ Para compilar todos os projetos de uma vez: `dotnet build EstudosCSharp.slnx`.
 | `TiposPrimitivos` | `bool`, `char`, `byte`, `int`, `long` e o estouro do `byte` em 255 |
 | `SaidaDeDados` | `Write` vs `WriteLine`, `ToString("F2")`, `CultureInfo` e interpolação |
 | `PrimeiraClasse` | Primeira classe com campos públicos e instanciação com `new` |
-| `Conversão implícita` | Conversão implícita e casting |
+| `Projeto4` | Operadores de atribuição (`+=`, `-=`, `*=`) e incremento pré e pós-fixado |
+| `Projeto5` | Conversão implícita, casting explícito e divisão inteira vs real |
+| `OperadoresAritimeticos` | Precedência, `%`, divisão inteira vs real e fórmula de Bhaskara |
 
 ### 03-exercicios
 

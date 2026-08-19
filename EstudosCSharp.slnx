@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/01-fundamentos/">
+    <Project Path="01-fundamentos/OperadoresAritimeticos/OperadoresAritimeticos/OperadoresAritimeticos.csproj" />
     <Project Path="01-fundamentos/PrimeiroPrograma/PrimeiroPrograma.csproj" />
+    <Project Path="01-fundamentos/Projeto4/Projeto4/Projeto4.csproj" />
+    <Project Path="01-fundamentos/Projeto5/Projeto5/Projeto5.csproj" />
     <Project Path="01-fundamentos/SaidaDeDados/SaidaDeDados.csproj" />
     <Project Path="01-fundamentos/TiposPrimitivos/TiposPrimitivos.csproj" />
   </Folder>
