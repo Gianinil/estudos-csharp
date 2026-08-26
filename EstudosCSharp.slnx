@@ -1,16 +1,23 @@
 <Solution>
   <Folder Name="/01-fundamentos/">
-    <Project Path="01-fundamentos/OperadoresAritimeticos/OperadoresAritimeticos/OperadoresAritimeticos.csproj" />
     <Project Path="01-fundamentos/PrimeiroPrograma/PrimeiroPrograma.csproj" />
+    <Project Path="01-fundamentos/TiposPrimitivos/TiposPrimitivos.csproj" />
+    <Project Path="01-fundamentos/SaidaDeDados/SaidaDeDados.csproj" />
     <Project Path="01-fundamentos/Projeto4/Projeto4/Projeto4.csproj" />
     <Project Path="01-fundamentos/Projeto5/Projeto5/Projeto5.csproj" />
-    <Project Path="01-fundamentos/SaidaDeDados/SaidaDeDados.csproj" />
-    <Project Path="01-fundamentos/TiposPrimitivos/TiposPrimitivos.csproj" />
+    <Project Path="01-fundamentos/OperadoresAritimeticos/OperadoresAritimeticos/OperadoresAritimeticos.csproj" />
+    <Project Path="01-fundamentos/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj" />
+    <Project Path="01-fundamentos/operadoresComparativos/operadoresComparativos/operadoresComparativos.csproj" />
+    <Project Path="01-fundamentos/operadoresLogicos/operadoresLogicos/operadoresLogicos.csproj" />
+    <Project Path="01-fundamentos/estruturaCondicional/estruturaCondicional/estruturaCondicional.csproj" />
+    <Project Path="01-fundamentos/funcoes/funcoes/funcoes.csproj" />
   </Folder>
   <Folder Name="/02-poo/">
     <Project Path="02-poo/PrimeiraClasse/PrimeiraClasse.csproj" />
   </Folder>
   <Folder Name="/03-exercicios/">
     <Project Path="03-exercicios/ProdutosFormatacao/ProdutosFormatacao.csproj" />
+    <Project Path="03-exercicios/Entrada de dados/Entrada de dados/Entrada de dados.csproj" />
   </Folder>
+  <Project Path="SaidaDeDados/SaidaDeDados/SaidaDeDados.csproj" />
 </Solution>
