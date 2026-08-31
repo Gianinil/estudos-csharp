@@ -51,6 +51,8 @@ Na ordem em que estudei.
 | --- | --- |
 | `ProdutosFormatacao` | Exercício juntando tipos, casas decimais e separador decimal |
 | `Entrada de dados` | Exercício de leitura pelo teclado: nome, inteiro e `double`, mais três valores na mesma linha, reimpressos formatados |
+| `ex03` | Classe `Funcionarios` com `nome` e `salario`: lê dois funcionários e imprime a média dos salários com `F2` |
+| `ex04` | Classe `Pessoa` com `nome` e `idade`: lê duas pessoas e diz qual é a mais velha |
 
 ### Projeto solto na raiz
 

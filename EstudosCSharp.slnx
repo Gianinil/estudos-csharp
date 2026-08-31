@@ -18,6 +18,8 @@
   <Folder Name="/03-exercicios/">
     <Project Path="03-exercicios/ProdutosFormatacao/ProdutosFormatacao.csproj" />
     <Project Path="03-exercicios/Entrada de dados/Entrada de dados/Entrada de dados.csproj" />
+    <Project Path="03-exercicios/ex03/ex03/ex03.csproj" />
+    <Project Path="03-exercicios/ex04/ex04/ex04.csproj" />
   </Folder>
   <Project Path="SaidaDeDados/SaidaDeDados/SaidaDeDados.csproj" />
 </Solution>
