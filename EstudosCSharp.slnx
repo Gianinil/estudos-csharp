@@ -23,6 +23,7 @@
     <Project Path="03-exercicios/ex07/ex07.csproj" />
     <Project Path="03-exercicios/ex08/ex08.csproj" />
     <Project Path="03-exercicios/ex09/ex09.csproj" />
+    <Project Path="03-exercicios/ex10/ex10.csproj" />
   </Folder>
   <Project Path="SaidaDeDados/SaidaDeDados/SaidaDeDados.csproj" />
 </Solution>
