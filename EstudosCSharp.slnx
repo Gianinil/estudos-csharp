@@ -3,6 +3,7 @@
     <Project Path="01-fundamentos/PrimeiroPrograma/PrimeiroPrograma.csproj" />
     <Project Path="01-fundamentos/TiposPrimitivos/TiposPrimitivos.csproj" />
     <Project Path="01-fundamentos/SaidaDeDados/SaidaDeDados.csproj" />
+    <Project Path="01-fundamentos/EntradaDeDados/EntradaDeDados.csproj" />
     <Project Path="01-fundamentos/Projeto4/Projeto4/Projeto4.csproj" />
     <Project Path="01-fundamentos/Projeto5/Projeto5/Projeto5.csproj" />
     <Project Path="01-fundamentos/OperadoresAritimeticos/OperadoresAritimeticos/OperadoresAritimeticos.csproj" />
@@ -16,14 +17,14 @@
     <Project Path="02-poo/PrimeiraClasse/PrimeiraClasse.csproj" />
   </Folder>
   <Folder Name="/03-exercicios/">
-    <Project Path="03-exercicios/ex05/ex05.csproj" />
+    <Project Path="03-exercicios/ProdutosFormatacao/ProdutosFormatacao.csproj" />
     <Project Path="03-exercicios/Entrada de dados/Entrada de dados/Entrada de dados.csproj" />
     <Project Path="03-exercicios/ex03/ex03/ex03.csproj" />
     <Project Path="03-exercicios/ex04/ex04/ex04.csproj" />
+    <Project Path="03-exercicios/ex05/ex05.csproj" />
     <Project Path="03-exercicios/ex07/ex07.csproj" />
     <Project Path="03-exercicios/ex08/ex08.csproj" />
     <Project Path="03-exercicios/ex09/ex09.csproj" />
     <Project Path="03-exercicios/ex10/ex10.csproj" />
   </Folder>
-  <Project Path="SaidaDeDados/SaidaDeDados/SaidaDeDados.csproj" />
 </Solution>

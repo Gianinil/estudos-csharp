@@ -37,6 +37,7 @@ Na ordem em que estudei.
 | `operadoresComparativos` | `==`, `!=`, `>`, `<`, `>=`, `<=` guardados em variáveis `bool` |
 | `operadoresLogicos` | `&&`, `\|\|` e `!` combinando condições |
 | `estruturaCondicional` | `if`, `else if` e `else`: número par ou ímpar e saudação pelo horário |
+| `EntradaDeDados` | Várias leituras seguidas com `ReadLine` e quebra de uma linha em partes com `Split` |
 | `funcoes` | Em andamento — projeto recém-criado, ainda no template padrão |
 
 ### 02-poo
@@ -53,12 +54,11 @@ Na ordem em que estudei.
 | `Entrada de dados` | Exercício de leitura pelo teclado: nome, inteiro e `double`, mais três valores na mesma linha, reimpressos formatados |
 | `ex03` | Classe `Funcionarios` com `nome` e `salario`: lê dois funcionários e imprime a média dos salários com `F2` |
 | `ex04` | Classe `Pessoa` com `nome` e `idade`: lê duas pessoas e diz qual é a mais velha |
-
-### Projeto solto na raiz
-
-| Projeto | Assunto |
-| --- | --- |
-| `SaidaDeDados` (raiz) | Apesar do nome, é sobre **entrada** de dados: várias leituras com `ReadLine` e quebra de uma linha com `Split`. Nome herdado do Visual Studio, ainda a mover para `01-fundamentos` |
+| `ex05` | Em andamento — classe `Triangulo` (lados `A`, `B`, `C`) criada, `Main` ainda vazio |
+| `ex07` | Classe `Total` para um produto: adiciona/remove unidades do estoque e calcula o valor total |
+| `ex08` | Conversão de reais para dólar descontando 6% de IOF |
+| `ex09` | Classe `Conta` com dois construtores (com e sem depósito inicial), depósito e saque com tarifa fixa de R$5 |
+| `ex10` | Classe `Retangulo`: calcula área ou perímetro conforme a opção digitada |
 
 Novos temas entram como pastas numeradas conforme eu avanço: funções e métodos,
 coleções, construtores e encapsulamento, herança, LINQ, tratamento de erros e
