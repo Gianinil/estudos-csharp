@@ -6,6 +6,7 @@
     <Project Path="01-fundamentos/EntradaDeDados/EntradaDeDados.csproj" />
     <Project Path="01-fundamentos/Projeto4/Projeto4/Projeto4.csproj" />
     <Project Path="01-fundamentos/Projeto5/Projeto5/Projeto5.csproj" />
+    <Project Path="01-fundamentos/Listas/Listas.csproj" />
     <Project Path="01-fundamentos/OperadoresAritimeticos/OperadoresAritimeticos/OperadoresAritimeticos.csproj" />
     <Project Path="01-fundamentos/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj" />
     <Project Path="01-fundamentos/operadoresComparativos/operadoresComparativos/operadoresComparativos.csproj" />
@@ -20,6 +21,7 @@
     <Project Path="03-exercicios/ex11/ex11.csproj" />
     <Project Path="03-exercicios/ex12/ex12.csproj" />
     <Project Path="03-exercicios/ex13/ex13.csproj" />
+    <Project Path="03-exercicios/ex14/ex14.csproj" />
     <Project Path="03-exercicios/ProdutosFormatacao/ProdutosFormatacao.csproj" />
     <Project Path="03-exercicios/Entrada de dados/Entrada de dados/Entrada de dados.csproj" />
     <Project Path="03-exercicios/ex03/ex03/ex03.csproj" />
