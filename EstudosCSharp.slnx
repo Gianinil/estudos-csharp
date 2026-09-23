@@ -6,6 +6,7 @@
     <Project Path="01-fundamentos/EntradaDeDados/EntradaDeDados.csproj" />
     <Project Path="01-fundamentos/Projeto4/Projeto4/Projeto4.csproj" />
     <Project Path="01-fundamentos/Projeto5/Projeto5/Projeto5.csproj" />
+    <Project Path="01-fundamentos/funcoesStrings/funcoesStrings.csproj" />
     <Project Path="01-fundamentos/Listas/Listas.csproj" />
     <Project Path="01-fundamentos/OperadoresAritimeticos/OperadoresAritimeticos/OperadoresAritimeticos.csproj" />
     <Project Path="01-fundamentos/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj" />
